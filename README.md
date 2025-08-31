@@ -25,7 +25,7 @@ Requirements
 
 Build
 
-    gcc -O2 bip39.c -o seedphrase -lcrypto
+    gcc -o seedphrase seedphrase.c -lcrypto
 
 Usage
 
