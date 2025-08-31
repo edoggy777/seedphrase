@@ -58,7 +58,3 @@ Notes
 -   Wordlist: Must contain exactly 2048 words. Use the official
     english.txt linked above.
 -   Use at your own risk
-
-License
-
-MIT
