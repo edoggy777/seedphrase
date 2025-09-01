@@ -58,3 +58,8 @@ Notes
 -   Wordlist: Must contain exactly 2048 words. Use the official
     english.txt linked above.
 -   Use at your own risk
+
+Visual
+
+<img width="738" height="482" alt="Screenshot from 2025-09-01 11-25-11" src="https://github.com/user-attachments/assets/3e0486f2-c839-47a7-b172-6f97f63ec018" />
+
